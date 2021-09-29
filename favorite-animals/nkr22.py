@@ -1,1 +1,1 @@
-print('My favorite animal is a dog')
+print('My least favorite animal is a cat')
